@@ -1,0 +1,16 @@
+characters={
+	SLV_CIRIL_ZLOBEC={
+		name="Ciril Zlobec"
+		portraits={
+			civilian={
+				large= portrait_SLV_ciril_zlobec
+			}
+		}
+		country_leader={
+			ideology=stalinism
+			traits = { triumphant_revolutionary }
+			desc = SLV_CIRIL_DESC
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
